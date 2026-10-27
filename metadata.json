@@ -1,0 +1,6 @@
+{
+  "name": "Metro Multispeciality Hospital",
+  "description": "Metro Multispeciality Hospital - We Cure With Care. Multi-speciality medical services, experienced doctors, modern facilities, and 24/7 emergency care in Ludhiana, Punjab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
